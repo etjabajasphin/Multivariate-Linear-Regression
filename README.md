@@ -35,7 +35,7 @@ predict=regr.predict([[3300,1300]])
 print('Predicted CO2 for for the corresponding weight and volume',predict)
 ```
 ## Output:
-![image](https://github.com/Arun2005-create/Multivariate-Linear-Regression/assets/138849356/c15b9ace-6fd7-4dc9-a4cb-21d516c05f17)
+![image](https://github.com/Arun2005-create/Multivariate-Linear-Regression/assets/138849356/6461acb6-3dc0-4665-a80f-3aa89ff8e179)
 
 
 ## Result
