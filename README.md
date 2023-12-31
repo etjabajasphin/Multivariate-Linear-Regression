@@ -24,7 +24,7 @@ Print the parameters of the linear function.
 ```
 import pandas as ps
 from sklearn import linear_model
-data=ps.read_csv("crse.csv")
+data=ps.read_csv("carsmulti.csv")
 x=data[['Weight','Volume']]
 y=data[['CO2']]
 regr=linear_model.LinearRegression()
